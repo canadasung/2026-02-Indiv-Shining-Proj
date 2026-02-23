@@ -1,0 +1,16 @@
+name: '532-shiny'
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - plotly
+  - matplotlib
+  - pandas
+  - python
+  - ipykernel
+  - seaborn
+  - scienceplots
+  - scikit-learn
+  - nbformat
+  - shiny
+  - pycountry
